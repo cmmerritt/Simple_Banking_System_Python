@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # the following line reads the string to work with from the input, do not modify it, please
+    input_str = input()
+
+    # your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6815
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6815">JetBrains
+    Academy</a></html>
+  time: Sat, 12 Sep 2020 23:14:03 UTC
+record: -1
